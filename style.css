@@ -411,6 +411,13 @@ header {
 .theme-toggle ion-icon {
   pointer-events: none;
 }
+.call-link {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
+}
 
 .hero-section {
   background:
